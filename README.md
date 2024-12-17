@@ -12,7 +12,7 @@ This project provides a C++ implementation of the Deribit API, allowing you to i
 ## Build Instructions
 
 1. Clone the repository:
-    `git clone https://github.com/Prajjawal12/Order-Execution-and-Management-System.git`
+    `git clone [https:(https://github.com/sudhir-sars/Order-Execution-and-Management-System-main.git)`
 
 2. Navigate to the project directory:
 
